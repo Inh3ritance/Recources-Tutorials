@@ -1,0 +1,16 @@
+import util.Scanner;
+public class Stats{
+  public static void main(String[] args){
+    Scanner scan = new Scanner(system.in);
+    System.out.println("Size of Array: ");
+    int n = scan.nextInt();
+    int[] arr = new int[];
+    int x = 0;
+    x = scan.nextInt();
+    System.out.println("Array: ");
+    while(x > 0){
+      
+    }
+    system.out.print();
+  } 
+}
